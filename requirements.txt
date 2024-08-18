@@ -4,7 +4,7 @@ hachoir
 ffmpeg
 extract
 Pillow
-pyrogram==1.4.4
+pyrofork
 tgcrypto
 youtube_dl
 python-dotenv
